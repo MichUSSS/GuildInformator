@@ -1,6 +1,7 @@
 # GuildInformator
 
-Co to jest @GuildInformator ?
+Co to jest @GuildInformator?
+
 Jest to bot na serwery teamspeak3 który działa na zasadzie "komet"
 
 TO:DO
