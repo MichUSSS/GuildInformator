@@ -1,0 +1,2 @@
+# GuildInformator
+GuildInformator
