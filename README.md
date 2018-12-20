@@ -5,7 +5,7 @@ Instalacja
 (Do działania potrzebny php)
 - Pliki z botem dodaj do katalogu /home/ na vps
 - bota odpalamy komendą: php core.php -i
-- jeżeli chcesz by bot działał cały (potrzebny pakiet screen) czas to wpisz: screen -dmS GuildInformator php core.php -i
+- jeżeli chcesz by bot działał cały czas (potrzebny pakiet screen) to wpisz: screen -dmS GuildInformator php core.php -i
 
 TO:DO
 - skrypt na odpalanie bota
